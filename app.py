@@ -9,7 +9,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("💰 Ứng dụng tính lãi gửi tiết kiệm")
+st.title("Ngân hàng trung ương_kho bạc nhà nước")
 st.write("Tính toán theo phương pháp lãi đơn và lãi kép")
 
 
